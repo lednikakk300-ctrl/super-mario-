@@ -1,0 +1,6 @@
+{
+  "name": "Adventure Quest: Sarguzasht",
+  "description": "To‘liq interaktiv adventure o‘yini: 50 ta level, personajlar va kiyimlar do‘koni, tangalar, yutuqlar va 3 tilda sozlamalar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
